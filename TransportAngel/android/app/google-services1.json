@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "861425817391",
+    "firebase_url": "https://transport-triangle-default-rtdb.firebaseio.com",
+    "project_id": "transport-triangle",
+    "storage_bucket": "transport-triangle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861425817391:android:98cd9665b38fae43dbb3da",
+        "android_client_info": {
+          "package_name": "com.transportangel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861425817391-k126b2ls8r4mv62nkjaernsse7vovq3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.transportangel",
+            "certificate_hash": "a13e35548ceb05dc7f15f8a4ca1924f36e24b862"
+          }
+        },
+        {
+          "client_id": "861425817391-tcd0a8v1acnp5mprpq1cokct397b27am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH7zXTds9JQQxJmxcco1k8FIkKVajR6KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861425817391-tcd0a8v1acnp5mprpq1cokct397b27am.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "861425817391-c8euia6c71ushmlmj0so2lp5dmgdnc44.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.izonnet.TransportAngel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
